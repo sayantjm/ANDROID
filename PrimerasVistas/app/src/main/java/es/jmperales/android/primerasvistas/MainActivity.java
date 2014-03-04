@@ -1,9 +1,8 @@
-package es.jmperales.android.myfirstapp;
+package es.jmperales.android.primerasvistas;
 
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
