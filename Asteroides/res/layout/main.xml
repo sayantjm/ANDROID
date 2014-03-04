@@ -35,6 +35,7 @@
         android:id="@+id/btnAcerca"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="lanzarAcercaDe"
         android:text="@string/btnAcerca" />
 
     <Button
